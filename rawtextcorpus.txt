@@ -1,0 +1,3 @@
+one paragraph, of 100-250 words, which summarizes the purpose, methods, results and conclusions of the paper.
+It is not easy to include all this information in just a few words. Start by writing a summary that includes whatever you think is important,
+and then gradually prune it down to size by removing unnecessary words, while still retaining the necessary concepts. Don't use abbreviations or citations in the abstract. It should be able to stand alone without any footnotes. Fig 1.1.1 shows below."""
